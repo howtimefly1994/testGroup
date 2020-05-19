@@ -1,7 +1,7 @@
 <template>
   <div>
     <el-container>
-      <el-header style="color:#fff">测试组管理工具</el-header>
+      <el-header style="color:#fff">测试组管理工具12</el-header>
       <el-container>
         <el-aside width="200px">
           <side-menu></side-menu>
