@@ -13,9 +13,9 @@ export default {
   },
   methods: {
     getGitbook() {
-      // this.$axios.get('http://192.168.169.32:4000/').then(function(res){
-      // console.log(res);
-      // })
+      this.$axios.get('http://192.168.169.167:5010/').then(function(res){
+      console.log(res);
+      })
       
     }
   },
